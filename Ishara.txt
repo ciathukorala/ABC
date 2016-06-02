@@ -1,1 +1,3 @@
-klghjg vhkgcfhkcf         
+$ git status
+$ git add .
+     
